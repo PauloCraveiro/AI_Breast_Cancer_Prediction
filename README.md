@@ -13,5 +13,5 @@ usage app.py [option] [argument]
 -h Help commands  
 -t Train network  
 -i Increase Model  
--p /<data string/> Neural Net Predict
+-p < data string > Neural Net Predict
 
